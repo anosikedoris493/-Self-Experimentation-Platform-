@@ -5,3 +5,5 @@ N
 contracts/biohacking-data.clar,c/6/c6913eae508bdd48a2f6beb7f50fd53b8b12a0a9
 Q
 !contracts/experiment-protoco.clar,5/9/59354bcc18c457f443a5ff9d86b17170443aad99
+O
+contracts/biohacking-token.clar,b/7/b78b22f3beb5f7f63c3ec700c978fc2c0be17591
