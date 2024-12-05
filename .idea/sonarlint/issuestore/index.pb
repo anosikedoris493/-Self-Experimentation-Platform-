@@ -7,3 +7,5 @@ Q
 !contracts/experiment-protoco.clar,5/9/59354bcc18c457f443a5ff9d86b17170443aad99
 O
 contracts/biohacking-token.clar,b/7/b78b22f3beb5f7f63c3ec700c978fc2c0be17591
+M
+tests/biohacking-data.test.ts,2/e/2e081f36bbd993b3782186761f6c81c0c6d2d58b
